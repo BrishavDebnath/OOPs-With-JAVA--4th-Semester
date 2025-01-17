@@ -11,12 +11,12 @@ public class GradeSheet {
          int Chemistry=myobj.nextInt();
          int Mathematics=myobj.nextInt();
          System.out.println("----------------------------------------------------------");
-         System.out.println("|\t\tName:"+Name+"\t\t      |");
-         System.out.println("|\t\tSAP ID:"+sap+"\t\t     |");
+         System.out.println("|\t\tName:"+Name+"\t\t      ");
+         System.out.println("|\t\tSAP ID:"+sap+"\t\t      ");
          System.out.println("----------------------------------------------------------");
-         System.out.println("|\tMaths:"+Mathematics+"\t  |");
-         System.out.println("|\tPhysics:"+Physics+"\t    |");
-         System.out.println("|\tChemistry:"+Chemistry+"\t|");
+         System.out.println("|\tMaths:"+Mathematics+"\t  ");
+         System.out.println("|\tPhysics:"+Physics+"\t    ");
+         System.out.println("|\tChemistry:"+Chemistry+"\t");
          System.out.println("----------------------------------------------------------");
 
     }
